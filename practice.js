@@ -44,8 +44,8 @@ var doubleCheck = arr => {
   if (!isFound) {
     arr.push('chocolate');
   }
-
- return arr;
+  
+  return arr;
 }
 
 //////////////////PROBLEM 5////////////////////
